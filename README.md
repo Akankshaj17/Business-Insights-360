@@ -7,6 +7,7 @@ This interactive dashboard enables stakeholders to monitor performance, analyze 
 
 ## Access the Dashboard
 - 📂 PBIX File: https://drive.google.com/file/d/1Se-FGyH9eURYQX-BTmpCSbeL7tHN0M7m/view?usp=sharing
+- 👉 Project Demo Link: https://youtu.be/aUJ1XSf6IFA
 
 ### 🚀 Key Features
 
