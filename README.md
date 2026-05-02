@@ -5,6 +5,9 @@ This interactive dashboard enables stakeholders to monitor performance, analyze 
 
 ---
 
+## Access the Dashboard
+- 📂 PBIX File: https://drive.google.com/file/d/1Se-FGyH9eURYQX-BTmpCSbeL7tHN0M7m/view?usp=sharing
+
 ### 🚀 Key Features
 
 📈 Finance View: Detailed Profit & Loss analysis with Net Sales, Gross Margin %, and Net Profit % tracking
